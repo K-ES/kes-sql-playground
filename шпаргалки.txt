@@ -1,0 +1,5 @@
+--
+Инженерообязанный🫡
+Топ вопросов на собеседовании по SQL - порядок выполнения запроса, виды команд, типы данных
+
+https://www.youtube.com/watch?v=rTSODCT4mKw&list=PLqAk2mIiDakkhP7ooRfS9BBfYfIzHa688&index=1
