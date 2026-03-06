@@ -1,0 +1,16 @@
+-- Порядок выполнения запроса
+
+https://youtu.be/rTSODCT4mKw?list=PLqAk2mIiDakkhP7ooRfS9BBfYfIzHa688&t=145
+
+FROM
+JOIN
+WHERE
+GROUP BY
+HAVING
+WINDOW (OVER)
+SELECT
+DISTINCT
+QUALIFY — только ClickHouse
+ORDER BY
+LIMIT
+FETCH FIRST
