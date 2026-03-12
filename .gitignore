@@ -1,2 +1,7 @@
 /DBeaverSettings/drivers
-/DBeaverSettings/workplace/
+
+/DBeaverSettings/workplace/General/.settings/
+/DBeaverSettings/workplace/General/.dbeaver/
+/DBeaverSettings/workplace/.metadata/.config/
+/DBeaverSettings/workplace/.metadata/.plugins/
+/DBeaverSettings/workplace/.metadata/
