@@ -9,16 +9,4 @@
 	<natures>
 		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Scripts/release</name>
-			<type>2</type>
-			<location>S:/MySQL/Git/mysql-test-project/release</location>
-		</link>
-		<link>
-			<name>Scripts/sql</name>
-			<type>2</type>
-			<location>S:/MySQL/Git/mysql-test-project/sql</location>
-		</link>
-	</linkedResources>
 </projectDescription>
